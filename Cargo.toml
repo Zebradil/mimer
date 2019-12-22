@@ -3,6 +3,8 @@ name = "mimer"
 version = "0.1.0"
 authors = ["German Lashevich <german.lashevich@gmail.com>"]
 edition = "2018"
+description = "Easily set default applications from command line"
+license = "MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 

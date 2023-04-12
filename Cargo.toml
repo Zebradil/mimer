@@ -11,4 +11,4 @@ license = "MIT"
 [dependencies]
 regex = "1"
 prettytable-rs = "^0.10.0"
-dirs = "^2"
+dirs = "^2.0.2"
